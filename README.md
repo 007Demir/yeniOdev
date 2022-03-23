@@ -1,0 +1,2 @@
+# yeniOdev
+bunu kendim yaptim
